@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phone Settings</string>
+    <string name="options">Options</string>
+    <string name="settings_error">There was an error getting settings</string>
+</resources>
